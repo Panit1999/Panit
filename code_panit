@@ -1,0 +1,16 @@
+#include <iostream>
+using namespace std;
+int main()
+{
+    cout<<"1st Term of 2020 \t6106021632034\tPanit Luneloy\n";
+    cout<<"~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\n";
+    cout<<"|\tSubject ID| Subject name \t| Score (100)| Grade|\n";
+    cout<<"|\t4570034\t| Citizen\t\t|\t85\t| "<< "\"A\"|\n";
+    cout<<"|\t4580247\t| English\t \t|\t80\t| "<< "\"A\"|\n";
+    cout<<"|\t4530001\t| Design Thinking \t|\t95\t| "<< "\"A\"|\n";
+    cout<<"~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\n";
+    cout<<"|\tTOTAL\t| Subject = 3 \t\t| Average = 4.00 |\n";
+    cout<<"==============================*=========\n\n\n\n";
+    cout<<"KMUTNB";
+    return 0;
+}
